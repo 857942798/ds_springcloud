@@ -1,11 +1,0 @@
-
-`	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(ºûØƒýÿÿÿÿ
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡õâ¡ûÿÿÿÿ
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ€Ð ýÿÿÿÿ
-y
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(„¯Ï£ýÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(ù‘¶‰üÿÿÿÿ
-c	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶»üö
-c	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö„¥§
-h
-java:S1192"MDefine a constant instead of duplicating this literal "çº¿ç¨‹æ± :  " 3 times.(‹Ñíñûÿÿÿÿ
