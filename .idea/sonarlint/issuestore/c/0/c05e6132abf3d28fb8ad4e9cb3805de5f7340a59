@@ -1,0 +1,20 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÍÃŠ
+c	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Éý±
+R
+java:S1854)"7Remove this useless assignment to local variable "age".(Ð­‘óþÿÿÿÿ
+C
+java:S1481)"(Remove this unused "age" local variable.(Ð­‘óþÿÿÿÿ
+O
+java:S3400/"9Remove this method and declare a constant for this value.(¾ž§ª
+>
+java:S1172-")Remove this unused method parameter "id".(…ß›"
+h	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž†ÃŒùÿÿÿÿ
+T
+java:S34005"9Remove this method and declare a constant for this value.(Œ´à¹ùÿÿÿÿ
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(åÌ¼ý
+t
+java:S1488*"^Immediately return this expression instead of assigning it to the temporary variable "result".(ú´ÀÞ
+^
+java:S3518)"CMake sure this expression can't be zero before doing this division.(Ð­‘óþÿÿÿÿ
