@@ -101,15 +101,3 @@ Ocloud-gateway-gateway9527/src/main/java/com/ds/springcloud/GateWayMain9527.java
 Tcloud-gateway-gateway9527/src/main/java/com/ds/springcloud/config/GateWayConfig.java,2/4/241d690a62b24e0da31ba8a68ce512a576731217
 â
 Ycloud-gateway-gateway9527/src/main/java/com/ds/springcloud/filter/MyLogGateWayFilter.java,6/d/6d7b545700f6924396add8ecacc956829aa8451f
-ê
-`cloud-provider-payment8001/src/main/java/com/ds/springcloud/service/impl/PaymentServiceImpl.java,9/c/9c86f88f69c642d027f9c16a44b74d77e3c3b463
-Ä
-Pcloud-provider-payment8001/src/main/java/com/ds/springcloud/PaymentMain8001.java,8/2/822f3d640f0046044f04f6e6a41c44c2dae2e3b3
-ç
-]cloud-provider-payment8001/src/main/java/com/ds/springcloud/controller/PaymentController.java,5/3/5398fd5eae35022ceae82e5ffc08f56580b47028
-á
-Wcloud-consumer-order80/src/main/java/com/ds/springcloud/controller/OrderController.java,7/d/7d29550f12167c46fe2602f5e0ff33fd19e0a2f6
-è
-_cloud-provider-hystrix-payment8001/src/main/java/com/ds/springcloud/PaymentHystrixMain8001.java,f/0/f0f183570f158c99c335bf9dfd4563848d9b3305
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
