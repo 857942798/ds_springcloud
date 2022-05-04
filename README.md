@@ -35,3 +35,10 @@ curl -X POST "http://localhost:3344/actuator/bus-refresh"
 curl -X POST "http://localhost:3344/actuator/bus-refresh/config-client:3355"
 
 # cloud-stream-rabbitmq-provider8801,作为生产者进行发消息模块
+http://localhost:8801/sendMessage
+
+
+# cloud-consumer-order80 ，消费者
+zipkin 调用链路测试
+
+http://localhost:80/consumer/payment/zipkin
