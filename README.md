@@ -42,3 +42,15 @@ http://localhost:8801/sendMessage
 zipkin 调用链路测试
 
 http://localhost:80/consumer/payment/zipkin
+
+
+
+# cloudalibaba-provider-payment9001 ，服务提供者1
+http://localhost:9001/payment/nacos/1
+# cloudalibaba-provider-payment9001 ，服务提供者2
+http://localhost:9002/payment/nacos/1
+# cloudalibaba-consumer-nacos-order83 ，服务消费者
+http://localhost:83/consumer/payment/nacos/1
+# cloudalibaba-config-nacos-client3377，配置中心
+http://localhost:3377/config/info
+
