@@ -5,10 +5,6 @@ import org.springframework.cloud.gateway.route.builder.RouteLocatorBuilder;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * @auther zzyy
- * @create 2020-02-21 11:42
- */
 @Configuration
 public class GateWayConfig
 {
