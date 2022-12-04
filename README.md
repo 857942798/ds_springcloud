@@ -54,3 +54,9 @@ http://localhost:83/consumer/payment/nacos/1
 # cloudalibaba-config-nacos-client3377，配置中心
 http://localhost:3377/config/info
 
+
+# seata-order-service2001
+正常下单：
+
+http://localhost:2001/order/create?userId=1&productId=1&count=10&money=100
+
